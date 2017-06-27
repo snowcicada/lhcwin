@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>pic1.jpg</file>
+        <file>pic2.gif</file>
+        <file>pic3.gif</file>
+        <file>logo.ico</file>
+        <file>close.png</file>
+        <file>sx/sx1.jpg</file>
+        <file>sx/sx2.jpg</file>
+        <file>sx/sx3.jpg</file>
+        <file>sx/sx4.jpg</file>
+        <file>sx/sx5.jpg</file>
+        <file>sx/sx6.jpg</file>
+        <file>sx/sx7.jpg</file>
+        <file>sx/sx8.jpg</file>
+        <file>sx/sx9.jpg</file>
+        <file>sx/sx10.jpg</file>
+        <file>sx/sx11.jpg</file>
+        <file>sx/sx12.jpg</file>
+    </qresource>
+</RCC>
